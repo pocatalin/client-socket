@@ -1,0 +1,5 @@
+C:\Users\Catalin\source\repos\Client\Client\bin\Release\net8.0\publish\Client.exe
+C:\Users\Catalin\source\repos\Client\Client\bin\Release\net8.0\publish\Client.dll
+C:\Users\Catalin\source\repos\Client\Client\bin\Release\net8.0\publish\Client.deps.json
+C:\Users\Catalin\source\repos\Client\Client\bin\Release\net8.0\publish\Client.runtimeconfig.json
+C:\Users\Catalin\source\repos\Client\Client\bin\Release\net8.0\publish\Client.pdb

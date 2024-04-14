@@ -1,0 +1,5 @@
+C:\Users\Catalin\Desktop\Clientser\Client.exe
+C:\Users\Catalin\Desktop\Clientser\Client.dll
+C:\Users\Catalin\Desktop\Clientser\Client.deps.json
+C:\Users\Catalin\Desktop\Clientser\Client.runtimeconfig.json
+C:\Users\Catalin\Desktop\Clientser\Client.pdb

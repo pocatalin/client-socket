@@ -1,0 +1,14 @@
+C:\Users\Catalin\source\repos\Client\Client\bin\Release\net8.0\Client.exe
+C:\Users\Catalin\source\repos\Client\Client\bin\Release\net8.0\Client.deps.json
+C:\Users\Catalin\source\repos\Client\Client\bin\Release\net8.0\Client.runtimeconfig.json
+C:\Users\Catalin\source\repos\Client\Client\bin\Release\net8.0\Client.dll
+C:\Users\Catalin\source\repos\Client\Client\bin\Release\net8.0\Client.pdb
+C:\Users\Catalin\source\repos\Client\Client\obj\Release\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalin\source\repos\Client\Client\obj\Release\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\Catalin\source\repos\Client\Client\obj\Release\net8.0\Client.AssemblyInfo.cs
+C:\Users\Catalin\source\repos\Client\Client\obj\Release\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Catalin\source\repos\Client\Client\obj\Release\net8.0\Client.dll
+C:\Users\Catalin\source\repos\Client\Client\obj\Release\net8.0\refint\Client.dll
+C:\Users\Catalin\source\repos\Client\Client\obj\Release\net8.0\Client.pdb
+C:\Users\Catalin\source\repos\Client\Client\obj\Release\net8.0\Client.genruntimeconfig.cache
+C:\Users\Catalin\source\repos\Client\Client\obj\Release\net8.0\ref\Client.dll
